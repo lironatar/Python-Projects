@@ -1,7 +1,10 @@
 # Python Projects
 
-A Snake game mini project in python
+Python Projects to for practice and learning.
 
-This was done following tutorials from youtube, With stopping midway and trying the rest on my own, To fully functional Python game
 
-Used tkinter as GUI
+- [x] Made an automation for paying "property tax" (ארנונה) with Selenium framework
+
+- [x] Made Python Game
+
+- [ ] Next Goal - Django Backend Project! 	
